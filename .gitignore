@@ -1,0 +1,5 @@
+node_modules
+build
+cypress
+.vscode/settings.json
+package-lock.json
