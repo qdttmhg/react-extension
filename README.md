@@ -44,7 +44,7 @@ Config VS Code
 12. Prettier - Code formatter  
 
 {  
-    "workbench.colorTheme": "Materialized",  
+    "workbench.colorTheme": "One Dark Pro",  
     "workbench.iconTheme": "material-icon-theme",  
     "workbench.startupEditor": "newUntitledFile",  
     "files.autoSave": "off",  
@@ -70,5 +70,7 @@ Config VS Code
     },  
     "emmet.includeLanguages": {  
         "javascript": "javascriptreact"  
-    }  
+    },
+    "material-icon-theme.activeIconPack": "react_redux",
+    "material-icon-theme.folders.theme": "specific"
 }  
