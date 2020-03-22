@@ -9,6 +9,7 @@ REM Library
 npm i axios  
 npm i rimraf  
 npm i react-modal
+npm i materialize-css@next  
 npm i --save prop-types  
 npm i --save styled-components  
 npm i --save react-virtualized  
@@ -43,6 +44,10 @@ Config VS Code
 11. One dark pro  
 12. Prettier - Code formatter  
 
+MaterializeCSS
+import M from 'materialize-css';
+
+setting.json
 {  
     "workbench.colorTheme": "One Dark Pro",  
     "workbench.iconTheme": "material-icon-theme",  
