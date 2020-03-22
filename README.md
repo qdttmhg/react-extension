@@ -10,6 +10,7 @@ npm i axios
 npm i rimraf  
 npm i react-modal
 npm i materialize-css@next  
+npm i react-textarea-autosize
 npm i --save prop-types  
 npm i --save styled-components  
 npm i --save react-virtualized  
