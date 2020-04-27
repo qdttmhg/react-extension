@@ -32,18 +32,27 @@ npm i --save-dev webpack-pwa-manifest compression-webpack-plugin
 Config VS Code  
 ----Install plugin------------------------------------------------------------------------------  
 
-1. Auto close tag  
-2. Auto Complete tag  
-3. Auto Import  
-4. Auto Rename Tag  
-5. Editor config for VS Code  
-6. ES7 React/Redux/GraphQL/React-Native snippets  
-7. ESlint  
-8. IntelliJ IDEA Keybindings  
-9. Material Icon Theme  
-10. Materialized  
-11. One dark pro  
-12. Prettier - Code formatter  
+1. Dracula Official  
+2. vscode-icons  
+3. font FiraCode  
+4. GitLens  
+5. Git History  
+6. Bracket Pair Colorizer  
+7. Bookmarks  
+8. Code Spell Checker  
+9. Settings Sync  
+10. Auto Import  
+11. Auto close tag  
+12. Auto rename tag  
+13. Import Cost  
+14. npm Intellisense  
+15. ESlint  
+16. Prettier - Code formatter  
+17. Visual Studio IntelliCode  
+18. TabNine  
+19. ES7 React/Redux/GraphQL/React-Native snippets  
+20. IntelliJ IDEA Keybindings  
+21. Editor config for VS Code  
 
 MaterializeCSS
 import M from 'materialize-css';
