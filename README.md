@@ -57,8 +57,8 @@ Config VS Code
 MaterializeCSS
 import M from 'materialize-css';
 
-setting.json
-{
+setting.json  
+{  
     "workbench.startupEditor": "newUntitledFile",  
     "workbench.iconTheme": "vscode-icons",  
     "workbench.colorTheme": "Dracula",  
