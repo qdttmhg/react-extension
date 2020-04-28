@@ -58,34 +58,44 @@ MaterializeCSS
 import M from 'materialize-css';
 
 setting.json
-{  
-    "workbench.colorTheme": "One Dark Pro",  
-    "workbench.iconTheme": "material-icon-theme",  
-    "workbench.startupEditor": "newUntitledFile",  
-    "files.autoSave": "off",  
-    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",  
-    "editor.multiCursorModifier": "ctrlCmd",  
-    "editor.formatOnPaste": true,  
-    "git.autofetch": true,  
-    "javascript.updateImportsOnFileMove.enabled": "always",  
-    "prettier.useEditorConfig": false,  
-    "prettier.tabWidth": 4,  
-    "prettier.useTabs": true,  
-    "[json]": {  
-        "editor.defaultFormatter": "esbenp.prettier-vscode"  
-    },  
-    "[html]": {  
-        "editor.defaultFormatter": "esbenp.prettier-vscode"  
-    },  
-    "[css]": {  
-        "editor.defaultFormatter": "esbenp.prettier-vscode"  
-    },  
-    "[javascript]": {  
-        "editor.defaultFormatter": "esbenp.prettier-vscode"  
-    },  
-    "emmet.includeLanguages": {  
-        "javascript": "javascriptreact"  
+{
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.colorTheme": "Dracula",
+    "editor.fontLigatures": true,
+    "editor.fontFamily": "'FiraCode-Retina'",
+    "editor.fontSize": 15,
+    "editor.codeActionsOnSave": null,
+    "editor.suggestSelection": "first",
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.formatOnPaste": true,
+    "prettier.useEditorConfig": false,
+    "prettier.tabWidth": 4,
+    "prettier.useTabs": true,
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
-    "material-icon-theme.activeIconPack": "react_redux",
-    "material-icon-theme.folders.theme": "specific"
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "files.autoSave": "off",
+    "git.autofetch": true,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    }
 }  
